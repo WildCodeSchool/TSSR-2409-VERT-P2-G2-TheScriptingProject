@@ -6,7 +6,7 @@
 
 ### :two: [Fonctionnalités](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#two--introduction-mise-en-contexte)
     
-### :three: [Prérequis](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#three-membres-du-groupe-et-r%C3%B4le-s1/s2/s3/s4-1)
+
     
 
 ---
@@ -51,7 +51,4 @@ Ce projet vise à créer un script permettant d'exécuter des tâches d'automati
 - **Automatisation des tâches système** : Installation de logiciels, gestion des utilisateurs, configurations réseau et autres tâches administratives.
 - **Surveillance et rapports** : Suivi de l'exécution des tâches et génération de logs pour garantir la traçabilité et la supervision.
 
-## :three: Prérequis
 
-- **Windows :** Installer `OpenSSH Server` pour les connexions à distance
-- **Linux :** Installer `OpenSSH` pour permettre les connexions SSH
