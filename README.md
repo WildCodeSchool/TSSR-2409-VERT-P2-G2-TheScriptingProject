@@ -2,7 +2,7 @@
 
 ## **SOMMAIRE**
 
-### :one: [Présentation du Projet](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#one-pr%C3%A9sentation-du-projet-et-des-objectifs-finaux-1)
+### :one: [Présentation du Projet](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/README.md#one-pr%C3%A9sentation-du-projet-1)
 
 ### :two: [Fonctionnalités](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/README.md#two--introduction-mise-en-contexte)
     
