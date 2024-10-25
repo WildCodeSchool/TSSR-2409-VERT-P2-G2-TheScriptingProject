@@ -26,11 +26,16 @@ Ce projet vise à créer un script permettant d'exécuter des tâches d'automati
 
 #### Objectifs du Projet
 
-- **Mettre en place une architecture client/serveur** : Configuration et gestion de serveurs et de clients pour la communication et l'exécution de tâches à distance.
-- **Créer et gérer des scripts Bash et PowerShell** : Développement de scripts permettant l'automatisation de diverses tâches sur des systèmes Windows et Linux.
-- **Réaliser un projet en équipe** : Collaboration sur un projet avec gestion des rôles, des tâches et des responsabilités au sein de l'équipe en utilisant la méthode Agile.
-- **Documenter toutes les étapes** : Faire des guides d'installation, d'utilisation et de configuration à l'intention des utilisateurs.
-- **Faire une démonstration de la réalisation finale** : Présentation des fonctionnalités du script et de son utilisation sur les différents environnements.
+- **Mettre en place une architecture client/serveur** :  
+Configuration et gestion de serveurs et de clients pour la communication et l'exécution de tâches à distance.
+- **Créer et gérer des scripts Bash et PowerShell** :  
+Développement de scripts permettant l'automatisation de diverses tâches sur des systèmes Windows et Linux.
+- **Réaliser un projet en équipe** :  
+Collaboration sur un projet avec gestion des rôles, des tâches et des responsabilités au sein de l'équipe en utilisant la méthode Agile.
+- **Documenter toutes les étapes** :  
+Faire des guides d'installation, d'utilisation et de configuration à l'intention des utilisateurs.
+- **Faire une démonstration de la réalisation finale** :  
+Présentation des fonctionnalités du script et de son utilisation sur les différents environnements.
 
 #### Présentation de l'Équipe
 
