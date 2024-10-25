@@ -3,8 +3,6 @@
 ## **SOMMAIRE**
 
 ### :one: [Présentation du Projet](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/README.md#one-pr%C3%A9sentation-du-projet-1)
-
-### :two: [Fonctionnalités](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/README.md#two-fonctionnalit%C3%A9s-1)
     
 
     
@@ -49,11 +47,5 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 
 
 
-
-## :two: Fonctionnalités
-
-- **Commandes à distance** : Exécution de scripts et de commandes sur des machines clientes à partir d'un serveur.
-- **Automatisation des tâches système** : Installation de logiciels, gestion des utilisateurs, configurations réseau et autres tâches administratives.
-- **Surveillance et rapports** : Suivi de l'exécution des tâches et génération de logs pour garantir la traçabilité et la supervision.
 
 
