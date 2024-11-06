@@ -37,13 +37,13 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 
 #### Présentation de l'Équipe
 
-| Première   | Semaine      |       |  Deuxième   |   Semaine     |       |   Troisième   |   Semaine   |       |   Quatrième   |   Semaine   |
-| :--------: | :----------: | :---: | :---------: | :---------:   | :---: | :-----------: | :---------: | :---: | :-----------: | :---------: |
-| **Membre** | **Rôle**     |       | **Membre**  | **Rôle**      |       |  **Membre**   |  **Rôle**   |       |  **Membre**   |  **Rôle**   |
-| Adeline    | Technicienne |       |   Adeline   | Scrum Master  |       |   Adeline     |             |       |    Adeline    |             |
-| Charles    | Technicien   |       |   Charles   | Product Owner |       |   Charles     |             |       |    Charles    |             |
-| Freddy     | Scrum Master |       |   Freddy    | Technicien    |       |   Freddy      |             |       |    Freddy     |             |
-| Yohann     | Product Owner|       |   Yohann    | Technicien    |       |   Yohann      |             |       |    Yohann     |             |
+| Première   | Semaine      |       |  Deuxième   |   Semaine     |       |   Troisième   |   Semaine     |       |   Quatrième   |   Semaine   |
+| :--------: | :----------: | :---: | :---------: | :---------:   | :---: | :-----------: | :---------:   | :---: | :-----------: | :---------: |
+| **Membre** | **Rôle**     |       | **Membre**  | **Rôle**      |       |  **Membre**   |  **Rôle**     |       |  **Membre**   |  **Rôle**   |
+| Adeline    | Technicienne |       |   Adeline   | Scrum Master  |       |   Adeline     | Technicienne  |       |    Adeline    |             |
+| Charles    | Technicien   |       |   Charles   | Product Owner |       |   Charles     | Technicien    |       |    Charles    |             |
+| Freddy     | Scrum Master |       |   Freddy    | Technicien    |       |   Freddy      | Product Owner |       |    Freddy     |             |
+| Yohann     | Product Owner|       |   Yohann    | Technicien    |       |   Yohann      | Scrum Master  |       |    Yohann     |             |
 
 
 
