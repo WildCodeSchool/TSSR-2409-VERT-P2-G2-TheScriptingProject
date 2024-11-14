@@ -315,8 +315,8 @@
 ***
 ***
 
-## Configuration des Machînes virtuelles
-### Configuration des cartes réseaux
+# Configuration des Machînes virtuelles
+## Configuration des cartes réseaux
 ##### Une fois les installations terminées, les quatre machines virtuelles sont configurées avec deux cartes réseaux, la première pour avoir accès à internet, la seconde pour communiquer sur un même réseau privé.
 
 #### Première carte réseau configurée en pont
@@ -329,49 +329,55 @@
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Carte%20r%C3%A9seau%202.png" width="1000">
 </picture>
 
-#### 
+
+## Mise en place des adresses IP statiques et autorisation du port 22 (port SSH)
+### Client Ubuntu
+
+#### Cliquer l'icône réseau en haut à droite du bureau puis sur Ethernet (enp0s8)
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Ubuntu%201.png" width="1000">
 </picture>
 
-#### 
+#### Cliquer sur l'engrenage de la connexion Ethernet (enp0s8)
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Ubuntu%202.png" width="1000">
 </picture>
 
-#### 
+#### Dans l'onglet IPV4, cliquer sur Manual, puis entrer l'adresse IP fixe et le Masque de sous réseau
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Ubuntu%203.jpg" width="700">
 </picture>
 
-#### 
+#### Ouvrir le terminal pour ouvrir le port 22 (port SSH)
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Ubuntu%204.png" width="700">
 </picture>
 
-#### 
+### Client Windows 10
+
+#### Ouvrir le Panneau de Configuration et ouvrir le centre de Réseau et Partage
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%201.png" width="1000">
 </picture>
 
-#### 
+#### Cliuqyer sur ethernet 2
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%202.png" width="1000">
 </picture>
 
-#### 
+#### Cliquer sur Properties
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%203.png" width="500">
 </picture>
 
-#### 
+#### Cliquer sur Internet Protocol Version 4 (TCP/IPv4) puis sur Properties
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%204.png" width="500">
 </picture>
 
-#### 
+#### CLiquer sur Use the following IP adress, puis entrer l'adresse IP fixe et le Masque de sous réseau, puis valider
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%205.png" width="500">
 </picture>
 
 #### 
