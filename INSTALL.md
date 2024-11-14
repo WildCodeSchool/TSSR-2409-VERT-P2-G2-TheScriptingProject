@@ -81,17 +81,17 @@
 
 ## Debian 12
 
-#### Choisir un nom d'utilisateur : 
+#### Choisir un nom d'utilisateur
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%201%20V2.png" width="1000">
 </picture>
 
-#### Monter l'image ISO de Debian 12 :
+#### Monter l'image ISO de Debian 12
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%202.jpg" width="1000">
 </picture>
 
-#### Caractéristiques techniques allouées à la VM :
+#### Caractéristiques techniques allouées à la VM
 ###### Vous pouvez choisir de modifier ces caractéristiques, mais nous ne pouvons garantir que cela fonctionnera
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%203.png" width="500">
@@ -201,6 +201,147 @@
 #### Appuyer sur Continuer pour finaliser l'installation et redémarrer
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2025.png" width="1000">
+</picture>
+
+***
+***
+
+## Windows 10
+
+#### Choisir un nom d'utilisateur
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%201.png" width="1000">
+</picture>
+
+#### Monter l'image ISO de Windows 10
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%202.jpg" width="1000">
+</picture>
+
+#### Désactiver la connexion internet en décochant Enable Network Adapter (important pour l'installation)
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%203.png" width="1000">
+</picture>
+
+#### Caractéristiques techniques allouées à la VM
+###### Vous pouvez choisir de modifier ces caractéristiques, mais nous ne pouvons garantir que cela fonctionnera
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%204.png" width="500">
+</picture>
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%205.png" width="500">
+</picture>
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%206.png" width="500">
+</picture>
+
+#### Sélectionner la langue et la disposition des touches du clavier, puis cliquer sur Install Now
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%207.jpg" width="1000">
+</picture>
+
+#### Cliquer sur I don't have a product key
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%208.jpg" width="1000">
+</picture>
+
+#### Sélectionner une version de Windows 10 (ici Windows 10 Pro)
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%209.jpg" width="1000">
+</picture>
+
+#### Cliquer sur Custom: Install Windows only
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%2010.jpg" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### Sélectionner l'unique disque dur
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%2011.jpg" width="1000">
+</picture>
+
+#### Choisir la région et la disposition des touches selon convenance
+#### Entrer le nom d'utilisateur
+
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%2012.jpg" width="1000">
+</picture>
+
+#### Entrer le mot de passe et répondre aux propositions de Windows selon votre convenance
+
+***
+***
+
+## Windows Server 2022
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
 </picture>
 
 #### 
