@@ -410,14 +410,38 @@
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%208.jpg" width="1000">
 </picture>
 
-#### Créer un nouvelle règle
+#### Créer une nouvelle règle
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%209.jpg" width="1000">
+</picture>
+
+#### Cliquer sur Port
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/SSH%20Windows%201.png" width="1000">
 </picture>
 
 #### Dans Specific local ports, inscrire port 22
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%2010.jpg" width="1000">
+</picture>
+
+#### Dans Action, sélectionner Allow the connection
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/SSH%20Windows%202.png" width="1000">
+</picture>
+
+#### Dans Profile, ne rien modifier et cliquer sur Next
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/SSH%20Windows%203.png" width="1000">
+</picture>
+
+#### Donner un nom clair à cette nouvelle règle et cliquer sur Finish
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/SSH%20Windows%204.png" width="1000">
+</picture>
+#### 
+<picture>
+  <img src="" width="1000">
 </picture>
 
 
@@ -463,9 +487,14 @@
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%208.jpg" width="1000">
 </picture>
 
-#### Créer un nouvelle règle
+#### D'abord pour Inbound Rules et ensuite pour Outbound Rules, créer une nouvelle règle (il faut donc faire la procédure deux fois)
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%209.jpg" width="1000">
+</picture>
+
+#### Cliquer sur Port
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/SSH%20Windows%201.png" width="1000">
 </picture>
 
 #### Dans Specific local ports, inscrire port 22
@@ -473,6 +502,20 @@
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%2010.jpg" width="1000">
 </picture>
 
+#### Dans Action, sélectionner Allow the connection
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/SSH%20Windows%202.png" width="1000">
+</picture>
+
+#### Dans Profile, ne rien modifier et cliquer sur Next
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/SSH%20Windows%203.png" width="1000">
+</picture>
+
+#### Donner un nom clair à cette nouvelle règle et cliquer sur Finish
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/SSH%20Windows%204.png" width="1000">
+</picture>
 #### 
 <picture>
   <img src="" width="1000">
@@ -487,6 +530,12 @@
 <picture>
   <img src="" width="1000">
 </picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
 
 #### 
 <picture>
