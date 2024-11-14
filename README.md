@@ -24,7 +24,7 @@ Ce projet vise à créer un script permettant d'exécuter des tâches d'automati
 
 ---
 
-#### Objectifs du Projet
+#### :two: Objectifs du Projet
 
 ---
 
@@ -41,7 +41,7 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 
 ---
 
-#### Présentation de l'Équipe
+#### :three: Présentation de l'Équipe
 
 ---
 
@@ -55,7 +55,7 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 
 ---
 
-#### Choix Techniques (Système d'exploitation et Version)
+#### :four: Choix Techniques (Système d'exploitation et Version)
 
 ---
 
@@ -95,13 +95,32 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 
 ---
 
-#### Difficultés rencontrées : Problèmes techniques rencontrés
+#### :five: Difficultés rencontrées : Problèmes techniques rencontrés
 
 ---
 
--Configuration des VM (Virtual Machine)
+- Configuration des VM (Virtual Machine) : cartes réseaux, configuration réseaux.<br>
+- Copie/Colle des scripts.<br>
+- Trouver une (des) application(s)/bibliothèque(s) afin d'insérer un "Menu" pour la selection de script.<br>
 
+---
 
+#### :six: Solutions Trouvées : Solutions et Alternatives trouvées
 
+---
+
+- Travail commun pour la configuration des VM (Virtual Machine)<br>
+- Connexion de VSCode (Virtual Studio Code)<br>
+- Test de plusieurs bibliothèques (Linux), Whiptail, Dialog et Zenety.
+- Choix de ```System.Windows.Forms.MessageBox``` pour le Powershell
+
+---
+
+#### :seven: Améliorations Possibles : suggestions d'améliorations futures 
+
+---
+
+- Boite de l'interface pourrait être plus esthétique.
+- Plus de sécurisation des 
 
 
