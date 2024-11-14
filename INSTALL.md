@@ -2,12 +2,12 @@
 
 ## **SOMMAIRE**
 
-* ###  :one:  [Prérequis techniques]()
-* ###  :two:  [Installation des Machines Virtuelles]()
-  * ####  2.1 [Ubuntu 22]()
-  * ####  2.2 [Debian 12]()
-  * ####  2.3 [Windows 10]()
-  * ####  2.4 [Windows Server 2022]()
+* ###  :one:  [Prérequis techniques](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#one-pr%C3%A9requis-techniques)
+* ###  :two:  [Installation des Machines Virtuelles](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#two--installation-des-machines-virtuelles-1)
+  * ####  2.1 [Ubuntu 22](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#21-ubuntu-22-1)
+  * ####  2.2 [Debian 12](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#22-debian-12-1)
+  * ####  2.3 [Windows 10](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#23-windows-10-1)
+  * ####  2.4 [Windows Server 2022](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#24-windows-server-2022-1)
 * ### :three: [Configuration des ISO]()
   * #### 3.1 [Cartes Réseaux]()
   * #### 3.2 [IP statiques]() 
@@ -24,7 +24,7 @@
 ***
 ***
 
-* ### :one: [Prérequis techniques]()
+* ### :one: [Prérequis techniques](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#one--pr%C3%A9requis-techniques)
   * ##### ▶️ Diposer d'un ordinateur suffisament puissant pour acceuillir plusieurs VM.
   * ##### ▶️ Disque (SSD mini, nvme recommandé) 200Go.
   * ##### ▶️ Ram 16 Go minimun, 32 Go recomandé.
