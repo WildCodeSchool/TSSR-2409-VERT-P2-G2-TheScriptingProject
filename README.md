@@ -45,7 +45,37 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 | Freddy     | Scrum Master |       |   Freddy    | Technicien    |       |   Freddy      | Product Owner |       |    Freddy     | Technicien    |
 | Yohann     | Product Owner|       |   Yohann    | Technicien    |       |   Yohann      | Scrum Master  |       |    Yohann     | Technicien    |
 
+#### Choix Techniques    
 
+Clients :  
 
+1) Client sur OS Windows 10
+   Nom : CLINWIN01
+   Utilisateur : Wilder
+   Mot de passe : Azerty1*
+   Configuration réseau en interne
+   IPv4 fixe : 172.16.10.20
+   Netmask : 255.255.255.0
+
+2) Client sur OS Ubuntu
+   Nom : CLILIN01
+   Utilisateur : Wilder
+   Mot de passe : Azerty1*
+   Configuration en réseau interne
+   IPv4 Fixe : 172.16.10.30
+   Netmask : 255.255.255.0
+
+Serveurs :  
+
+1) Serveur Windows Server 2022
+   Nom : SRVWIN01
+   Compte : Administrator
+   Mot de passe : Azerty1*
+   Adresse IP fixe : 172.16.10.5/24
+
+2) Serveur Debian 12
+   Nom: SRVLX01
+   Compte : root
+   Mot de passe : Azerty1*
 
 
