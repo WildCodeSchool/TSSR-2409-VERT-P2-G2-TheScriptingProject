@@ -36,7 +36,7 @@
 
 #### Lancer la VM afin d'installer Ubuntu
 <picture>
-  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%205b.png" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%205%20V2.png" width="1000">
 </picture>
 
 #### Sélectionner Ubuntu (safe graphics)
@@ -61,17 +61,200 @@
 
 #### Sélectionner Erase disk and Istall Ubuntu et cliquer sur Install Now
 <picture>
-  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%210.jpg" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%2010.jpg" width="1000">
 </picture>
 
 #### Cliquer sur Continue 
 <picture>
-  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%211.jpg" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%2011.jpg" width="1000">
 </picture>
 
 #### Entrer le nom d'utilisateur, le nom de la machine et le mot de passe
 <picture>
-  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%212.jpg" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%2012.jpg" width="1000">
 </picture>
 
 #### Redémarrer
+
+***
+***
+
+## Debian 12
+
+#### Choisir un nom d'utilisateur : 
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%201%20V2.png" width="1000">
+</picture>
+
+#### Monter l'image ISO de Debian 12 :
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%202.jpg" width="1000">
+</picture>
+
+#### Caractéristiques techniques allouées à la VM :
+###### Vous pouvez choisir de modifier ces caractéristiques, mais nous ne pouvons garantir que cela fonctionnera
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%203.png" width="500">
+</picture>
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%204.png" width="500">
+</picture>
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%205.png" width="500">
+</picture>
+
+#### Lancer la VM afin d'installer Debian
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%206.png" width="1000">
+</picture>
+
+#### Sélectionner Grpahical Install
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%207.png" width="1000">
+</picture>
+
+#### Sélectionner la langue
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%208.jpg" width="1000">
+</picture>
+
+#### Sélectionner la disposition des touches
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%209.jpg" width="1000">
+</picture>
+
+#### Nommer la machine
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2010.png" width="1000">
+</picture>
+
+#### Laisser le nom de domaine vide
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2011.png" width="1000">
+</picture>
+
+#### Définir le mot de passe du superutilisateur (root) <== *(nous avons utilisé le mot de passe suivant : Azerty1*)*
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2012.png" width="1000">
+</picture>
+
+#### Définir un nom d'utilisateur
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2013.jpg" width="1000">
+</picture>
+
+#### Définir le mot de passe de cet utilisateur
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2014.jpg" width="1000">
+</picture>
+
+#### Sélectionner le mode assisté de partionnement et continuer
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2015.jpg" width="1000">
+</picture>
+
+#### Sélectionner Tout dans une seul partition
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2016.jpg" width="1000">
+</picture>
+
+#### Sélectionner Terminer le partionnement et appliquer les changements
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2017.jpg" width="1000">
+</picture>
+
+#### Ne pas analyser d'autres supports d'installation
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2018.png" width="1000">
+</picture>
+
+#### Choisir votre pays et un miroi pour la gestion des paquets
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2019.jpg" width="1000">
+</picture>
+
+#### Ne pas mettre de mandataure HTTP
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2020.png" width="1000">
+</picture>
+
+#### Nous avons décide de ne pas participer au popularity-contest *(vous pouvez en décider autrement)*
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2021.png" width="1000">
+</picture>
+
+#### Pour une installation en CLI, décocher tous les éléments de bureau et cocher Serveur SSH
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2022.png" width="1000">
+</picture>
+
+#### Installer GRUB
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2023.png" width="1000">
+</picture>
+
+#### Sélectionner votre disque dur
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2024.png" width="1000">
+</picture>
+
+#### Appuyer sur Continuer pour finaliser l'installation et redémarrer
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2025.png" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
+
