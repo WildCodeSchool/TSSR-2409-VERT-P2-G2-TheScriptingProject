@@ -2,10 +2,32 @@
 
 ## **SOMMAIRE**
 
-### :one: [Utilisation basique (Ubuntu)](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#one-utilisation-basique-ubuntu-1)
+### :one: [Utilisation basique (Ubuntu)](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/edit/main/USER_GUIDE.md#one-utilisation-basique)
 
-### :two: [Utilisation avancée](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#two--utilisation-avanc%C3%A9e-certaines-commandes-peuvent-n%C3%A9cessiter-dutiliser-sudo)
+### :two: [Utilisation avancée]()
     
-### :three: [Exemple et interprétation du résultat](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/USER_GUIDE.md#three--exemple-et-interpr%C3%A9tation-du-r%C3%A9sultat)
+### :three: [Exemple et interprétation du résultat]()
 
 ---
+
+### :one: [Utilisation Basique](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/edit/main/USER_GUIDE.md#one-utilisation-basique)
+
+---
+
+- Client Ubuntu :<br>
+
+     ▶️La Fenêtre Vous propose un premier choix :<br>
+
+   1.Utilisateur<br>
+   2.Ordinateur<br>
+  
+     ▶️Un autre choix  s'impose à vous :<br>
+  
+   1.Action<br>
+   2.Informations<br>
+   3.???<br>
+  
+     ▶️Vous aurez accès alors aux actions possibles ainsi qu'aux informations disponibles.<br>
+
+
+  
