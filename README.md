@@ -22,7 +22,11 @@ Ce projet vise à créer un script permettant d'exécuter des tâches d'automati
    - **Debian 12 vers Windows 10 Pro**
    - **Windows Server 2022 vers Ubuntu**
 
+---
+
 #### Objectifs du Projet
+
+---
 
 - **Mettre en place une architecture client/serveur** :  
 Configuration et gestion de serveurs et de clients pour la communication et l'exécution de tâches à distance.
@@ -35,7 +39,11 @@ Faire des guides d'installation, d'utilisation et de configuration à l'intentio
 - **Faire une démonstration de la réalisation finale** :  
 Présentation des fonctionnalités du script et de son utilisation sur les différents environnements.
 
+---
+
 #### Présentation de l'Équipe
+
+---
 
 | Première   | Semaine      |       |  Deuxième   |   Semaine     |       |   Troisième   |   Semaine     |       |   Quatrième   |   Semaine     |
 | :--------: | :----------: | :---: | :---------: | :---------:   | :---: | :-----------: | :---------:   | :---: | :-----------: | :---------:   |
@@ -45,11 +53,15 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 | Freddy     | Scrum Master |       |   Freddy    | Technicien    |       |   Freddy      | Product Owner |       |    Freddy     | Technicien    |
 | Yohann     | Product Owner|       |   Yohann    | Technicien    |       |   Yohann      | Scrum Master  |       |    Yohann     | Technicien    |
 
+---
+
 #### Choix Techniques (Système d'exploitation et Version)
+
+---
 
 **Clients :**  
 
-1) _Client sur OS Windows 10_<br>
+1. _Client sur OS Windows 10_<br>
    Nom : CLINWIN01<br>
    Utilisateur : Wilder<br>
    Mot de passe : Azerty1*<br>
@@ -57,7 +69,7 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
    IPv4 fixe : 172.16.10.20<br>
    Netmask : 255.255.255.0<br>
 
-3) _Client sur OS Ubuntu_<br>
+3. _Client sur OS Ubuntu_<br>
    Nom : CLILIN01<br>
    Utilisateur : Wilder<br>
    Mot de passe : Azerty1*<br>
@@ -67,18 +79,29 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 
 **Serveurs :**  
 
-1) _Serveur Windows Server 2022_<br>
+1. _Serveur Windows Server 2022_<br>
    Nom : SRVWIN01<br>
    Compte : Administrator<br>
    Mot de passe : Azerty1*<br>
    IPv4 Fixe : 172.16.10.5<br>
    Netmask : 255.255.255.0<br>
 
-2) _Serveur Debian 12_<br>
+2. _Serveur Debian 12_<br>
    Nom: SRVLX01<br>
    Compte : root<br>
    Mot de passe : Azerty1*<br>
    IPv4 fixe : 172.16.10.10<br>
    Netmask : 255.255.255.0<br>
+
+---
+
+#### Difficultés rencontrées : Problèmes techniques rencontrés
+
+---
+
+-Configuration des VM (Virtual Machine)
+
+
+
 
 
