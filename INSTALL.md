@@ -8,9 +8,9 @@
   * ####  2.2 [Debian 12](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#22-debian-12-1)
   * ####  2.3 [Windows 10](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#23-windows-10-1)
   * ####  2.4 [Windows Server 2022](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#24-windows-server-2022-1)
-* ### :three: [Configuration des ISO]()
-  * #### 3.1 [Cartes Réseaux]()
-  * #### 3.2 [IP statiques]() 
+* ### :three: [Configuration des Machines Virtuelles]()
+  * #### 3.1 [Configuration des Cartes Réseaux]()
+  * #### 3.2 [Mise en place des adresses IP statiques et autorisation du port 22 (port SSH)]()
     * #### 3.2.1 [Ubuntu]()
     * #### 3.2.2 [Debian 12]()
     * #### 3.2.3 [Windows 10]()
@@ -33,9 +33,9 @@
 ***
 ***
 
-* ###  :two:  [Installation des Machines Virtuelles]()
+* ###  :two:  [Installation des Machines Virtuelles](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#two--installation-des-machines-virtuelles)
 
-  * ####  2.1 [Ubuntu 22]()
+  * ####  2.1 [Ubuntu 22](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#two--installation-des-machines-virtuelles)
 #### Choisir un nom d'utilisateur : 
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%201.jpg" width="1000">
@@ -103,7 +103,7 @@
 
 ***
 
-  * ####  2.2 [Debian 12]()
+  * ####  2.2 [Debian 12](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#22-debian-12)
 
 #### Choisir un nom d'utilisateur
 <picture>
@@ -230,7 +230,7 @@
 
 ***
 
-  * ####  2.3 [Windows 10]()
+  * ####  2.3 [Windows 10](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#23-windows-10)
 
 #### Choisir un nom d'utilisateur
 <picture>
@@ -296,7 +296,7 @@
 
 ***
 
-  * ####  2.4 [Windows Server 2022]()
+  * ####  2.4 [Windows Server 2022](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#24-windows-server-2022)
 
 #### Choisir un nom d'utilisateur
 <picture>
@@ -339,11 +339,11 @@
 ***
 ***
 
-# Configuration des Machînes virtuelles
+* ### :three: [Configuration des Machines Virtuelles]()
 
 ***
 
-## Configuration des cartes réseaux
+  * #### 3.1 [Configuration des Cartes Réseaux]()
 ##### Une fois les installations terminées, les quatre machines virtuelles sont configurées avec deux cartes réseaux, la première pour avoir accès à internet, la seconde pour communiquer sur un même réseau privé.
 
 #### Première carte réseau configurée en pont
@@ -360,11 +360,11 @@
 ***
 ***
 
-## Mise en place des adresses IP statiques et autorisation du port 22 (port SSH)
+  * #### 3.2 [Mise en place des adresses IP statiques et autorisation du port 22 (port SSH)]()
 
 ***
 
-### Client Ubuntu
+  * #### 3.2.1 [Ubuntu]()
 
 #### Cliquer l'icône réseau en haut à droite du bureau puis sur Ethernet (enp0s8)
 <picture>
@@ -389,7 +389,7 @@
 
 ***
 
-### Serveur Debian
+  * #### 3.2.2 [Debian 12]()
 
 #### Modifier le fichier qui gère les connexions réseaux
 <picture>
@@ -406,7 +406,7 @@
 
 ***
 
-### Client Windows 10
+  * #### 3.2.3 [Windows 10]()
 
 #### Ouvrir le Panneau de Configuration et ouvrir le centre de Réseau et Partage
 <picture>
@@ -481,7 +481,7 @@
 
 ***
 
-### Client Windows server 2022
+  * #### 3.2.4 [Windows Server 2022]()
 
 #### Ouvrir le Panneau de Configuration et ouvrir le centre de Réseau et Partage
 <picture>
