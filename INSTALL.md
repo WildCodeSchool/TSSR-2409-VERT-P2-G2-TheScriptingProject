@@ -11,14 +11,13 @@
 ---
 
 
-* ##### 2  Installations des ISO :
-  * ## 2.1 Ubuntu 22
+## Ubuntu 22
 #### Choisir un nom d'utilisateur : 
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%201.jpg" width="1000">
 </picture>
 
-#### Monter l'image ISO d'Ubuntu 22 :  
+#### Monter l'image ISO d'Ubuntu 22 :
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%202.jpg" width="1000">
 </picture>
@@ -32,45 +31,45 @@
   <img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/refs/heads/main/Screenshots/Install%20Ubuntu%204.png" width="500">
 </picture>
 <picture>
-  <img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/refs/heads/main/Screenshots/Install%20Ubuntu%204.png" width="500">
+  <img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/refs/heads/main/Screenshots/Install%20Ubuntu%205.png" width="500">
 </picture>
 
-#### Lancer la VM afin d'installer Ubuntu : 
+#### Lancer la VM afin d'installer Ubuntu
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%205b.png" width="1000">
 </picture>
 
-#### Sélectionner Ubuntu (safe graphics) :
+#### Sélectionner Ubuntu (safe graphics)
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%206.jpg" width="1000">
 </picture>
 
-#### Selectionner langue et Install Ubuntu : 
+#### Selectionner la langue et cliquer sur Install Ubuntu
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%207.jpg" width="1000">
 </picture>
 
-#### Keyboard : 
+#### Sélectionner la disposition des touches et la langue du clavier
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%208.jpg" width="1000">
 </picture>
 
-#### Normal Instalation :
+#### Sélectionner Normal Instalation et décocher la case Download updates while installing Ubuntu :
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%209.jpg" width="1000">
 </picture>
 
-#### Erase disk and Istall Ubuntu et Install Now
+#### Sélectionner Erase disk and Istall Ubuntu et cliquer sur Install Now
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%210.jpg" width="1000">
 </picture>
 
-#### Continue 
+#### Cliquer sur Continue 
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%211.jpg" width="1000">
 </picture>
 
-#### Name and password  
+#### Entrer le nom d'utilisateur, le nom de la machine et le mot de passe
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%212.jpg" width="1000">
 </picture>
