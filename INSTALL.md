@@ -353,6 +353,21 @@
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Ubuntu%204.png" width="700">
 </picture>
 
+### Serveur Debian
+
+#### Modifier le fichier qui gère les connexions réseaux
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Debian%201.jpg" width="500">
+</picture>
+
+#### Configurer la connexion enp0s8 comme suit 
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Debian%202.png" width="700">
+</picture>
+
+#### Le pare-feu de Debian 12 est ouvert par defaut, il n'est donc pas nécessaire de configurer le port 22 (port SSH).
+
+
 ### Client Windows 10
 
 #### Ouvrir le Panneau de Configuration et ouvrir le centre de Réseau et Partage
@@ -380,29 +395,82 @@
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%205.png" width="500">
 </picture>
 
-#### 
+#### Pour ouvrir le port 22 (port SSH), cliquer sur l'icône Réseau de la barre des tâches puis sur Network & Internet settings
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%206.png" width="1000">
 </picture>
 
-#### 
+#### Cliquer sur Windows Firewall
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%207.jpg" width="1000">
 </picture>
 
-#### 
+#### Cliquer sur Advanced Settings
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%208.jpg" width="1000">
 </picture>
 
-#### 
+#### Créer un nouvelle règle
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%209.jpg" width="1000">
 </picture>
 
-#### 
+#### Dans Specific local ports, inscrire port 22
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%2010.jpg" width="1000">
+</picture>
+
+
+### Client Windows server 2022
+
+#### Ouvrir le Panneau de Configuration et ouvrir le centre de Réseau et Partage
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%201.png" width="1000">
+</picture>
+
+#### Cliuqyer sur ethernet 2
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%202.png" width="1000">
+</picture>
+
+#### Cliquer sur Properties
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%203.png" width="500">
+</picture>
+
+#### Cliquer sur Internet Protocol Version 4 (TCP/IPv4) puis sur Properties
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%204.png" width="500">
+</picture>
+
+#### CLiquer sur Use the following IP adress, puis entrer l'adresse IP fixe et le Masque de sous réseau, puis valider
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Windows%205.png" width="500">
+</picture>
+
+#### Pour ouvrir le port 22 (port SSH), cliquer sur l'icône Réseau de la barre des tâches puis sur Network & Internet settings
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%206.jpg" width="1000">
+</picture>
+
+#### Cliquer sur Windows Firewall
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%207.jpg" width="1000">
+</picture>
+
+#### Cliquer sur Advanced Settings
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%208.jpg" width="1000">
+</picture>
+
+#### Créer un nouvelle règle
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%209.jpg" width="1000">
+</picture>
+
+#### Dans Specific local ports, inscrire port 22
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Winsrv%2010.jpg" width="1000">
 </picture>
 
 #### 
