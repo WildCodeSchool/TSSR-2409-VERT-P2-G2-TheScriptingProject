@@ -34,3 +34,45 @@
 <picture>
   <img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/refs/heads/main/Screenshots/Install%20Ubuntu%204.png" width="500">
 </picture>
+
+#### Lancer la VM afin d'installer Ubuntu : 
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%205b.png" width="1000">
+</picture>
+
+#### Sélectionner Ubuntu (safe graphics) :
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%206.jpg" width="1000">
+</picture>
+
+#### Selectionner langue et Install Ubuntu : 
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%207.jpg" width="1000">
+</picture>
+
+#### Keyboard : 
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%208.jpg" width="1000">
+</picture>
+
+#### Normal Instalation :
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%209.jpg" width="1000">
+</picture>
+
+#### Erase disk and Istall Ubuntu et Install Now
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%210.jpg" width="1000">
+</picture>
+
+#### Continue 
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%211.jpg" width="1000">
+</picture>
+
+#### Name and password  
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%212.jpg" width="1000">
+</picture>
+
+#### Redémarrer
