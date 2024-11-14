@@ -311,14 +311,22 @@
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Winsrv%208.jpg" width="1000">
 </picture>
 
-#### 
+***
+***
+***
+
+## Configuration des Machînes virtuelles
+### Configuration des cartes réseaux
+##### Une fois les installations terminées, les quatre machines virtuelles sont configurées avec deux cartes réseaux, la première pour avoir accès à internet, la seconde pour communiquer sur un même réseau privé.
+
+#### Première carte réseau configurée en pont
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Carte%20r%C3%A9seau%201.png" width="1000">
 </picture>
 
-#### 
+#### Seconde carte réseau configurée en réseau interne 
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Carte%20r%C3%A9seau%202.png" width="1000">
 </picture>
 
 #### 
