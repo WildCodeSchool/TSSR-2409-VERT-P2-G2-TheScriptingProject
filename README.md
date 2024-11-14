@@ -105,7 +105,8 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 - Configuration des VM (Virtual Machine) : cartes réseaux, configuration réseaux.<br>
 - Copie/Colle des scripts.<br>
 - Trouver une (des) application(s)/bibliothèque(s) afin d'insérer un "Menu" pour la selection de script.<br>
-
+- apparition des Mdp.
+- 
 ---
 
 #### :six: Solutions Trouvées : Solutions et Alternatives trouvées
@@ -124,6 +125,6 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 ---
 
 - Boite de l'interface pourrait être plus esthétique.
-- Plus de sécurisation des 
+- Plus de sécurisation des mot de passe et de leurs comfirmations. 
 
 
