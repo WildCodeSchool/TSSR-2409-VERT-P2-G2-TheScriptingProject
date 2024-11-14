@@ -8,13 +8,13 @@
   * ####  2.2 [Debian 12](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#22-debian-12-1)
   * ####  2.3 [Windows 10](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#23-windows-10-1)
   * ####  2.4 [Windows Server 2022](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#24-windows-server-2022-1)
-* ### :three: [Configuration des Machines Virtuelles]()
-  * #### 3.1 [Configuration des Cartes Réseaux]()
-  * #### 3.2 [Mise en place des adresses IP statiques et autorisation du port 22 (port SSH)]()
-    * #### 3.2.1 [Ubuntu]()
-    * #### 3.2.2 [Debian 12]()
-    * #### 3.2.3 [Windows 10]()
-    * #### 3.2.4 [Windows Server 2022]()
+* ### :three: [Configuration des Machines Virtuelles](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#three-configuration-des-machines-virtuelles-1)
+  * #### 3.1 [Configuration des Cartes Réseaux](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#31-configuration-des-cartes-r%C3%A9seaux-1)
+  * #### 3.2 [Mise en place des adresses IP statiques et autorisation du port 22 (port SSH)](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#32-mise-en-place-des-adresses-ip-statiques-et-autorisation-du-port-22-port-ssh-1)
+    * #### 3.2.1 [Ubuntu](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#321-ubuntu-1)
+    * #### 3.2.2 [Debian 12](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#322-debian-12-1)
+    * #### 3.2.3 [Windows 10](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#323-windows-10-1)
+    * #### 3.2.4 [Windows Server 2022](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#324-windows-server-2022-1)
  * ##### 3.3 [Ping]()
   * ##### 3.4 [SSH]()
      * ##### 3.4.1 [Installation]()
@@ -339,11 +339,11 @@
 ***
 ***
 
-* ### :three: [Configuration des Machines Virtuelles]()
+* ### :three: [Configuration des Machines Virtuelles](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#three-configuration-des-machines-virtuelles)
 
 ***
 
-  * #### 3.1 [Configuration des Cartes Réseaux]()
+  * #### 3.1 [Configuration des Cartes Réseaux](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#31-configuration-des-cartes-r%C3%A9seaux)
 ##### Une fois les installations terminées, les quatre machines virtuelles sont configurées avec deux cartes réseaux, la première pour avoir accès à internet, la seconde pour communiquer sur un même réseau privé.
 
 #### Première carte réseau configurée en pont
@@ -360,11 +360,11 @@
 ***
 ***
 
-  * #### 3.2 [Mise en place des adresses IP statiques et autorisation du port 22 (port SSH)]()
+  * #### 3.2 [Mise en place des adresses IP statiques et autorisation du port 22 (port SSH)](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#32-mise-en-place-des-adresses-ip-statiques-et-autorisation-du-port-22-port-ssh)
 
 ***
 
-  * #### 3.2.1 [Ubuntu]()
+  * #### 3.2.1 [Ubuntu](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#321-ubuntu)
 
 #### Cliquer l'icône réseau en haut à droite du bureau puis sur Ethernet (enp0s8)
 <picture>
@@ -389,7 +389,7 @@
 
 ***
 
-  * #### 3.2.2 [Debian 12]()
+  * #### 3.2.2 [Debian 12](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#322-debian-12)
 
 #### Modifier le fichier qui gère les connexions réseaux
 <picture>
@@ -406,7 +406,7 @@
 
 ***
 
-  * #### 3.2.3 [Windows 10]()
+  * #### 3.2.3 [Windows 10](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#323-windows-10)
 
 #### Ouvrir le Panneau de Configuration et ouvrir le centre de Réseau et Partage
 <picture>
@@ -481,7 +481,7 @@
 
 ***
 
-  * #### 3.2.4 [Windows Server 2022]()
+  * #### 3.2.4 [Windows Server 2022](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#324-windows-server-2022)
 
 #### Ouvrir le Panneau de Configuration et ouvrir le centre de Réseau et Partage
 <picture>
