@@ -45,37 +45,40 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 | Freddy     | Scrum Master |       |   Freddy    | Technicien    |       |   Freddy      | Product Owner |       |    Freddy     | Technicien    |
 | Yohann     | Product Owner|       |   Yohann    | Technicien    |       |   Yohann      | Scrum Master  |       |    Yohann     | Technicien    |
 
-#### Choix Techniques    
+#### Configuration réseau    
 
 Clients :  
 
-1) Client sur OS Windows 10
-   Nom : CLINWIN01
-   Utilisateur : Wilder
-   Mot de passe : Azerty1*
-   Configuration réseau en interne
-   IPv4 fixe : 172.16.10.20
-   Netmask : 255.255.255.0
+1) _Client sur OS Windows 10_<br>
+   Nom : CLINWIN01<br>
+   Utilisateur : Wilder<br>
+   Mot de passe : Azerty1*<br>
+   Configuration réseau en interne<br>
+   IPv4 fixe : 172.16.10.20<br>
+   Netmask : 255.255.255.0<br>
 
-2) Client sur OS Ubuntu
-   Nom : CLILIN01
-   Utilisateur : Wilder
-   Mot de passe : Azerty1*
-   Configuration en réseau interne
-   IPv4 Fixe : 172.16.10.30
-   Netmask : 255.255.255.0
+3) _Client sur OS Ubuntu_<br>
+   Nom : CLILIN01<br>
+   Utilisateur : Wilder<br>
+   Mot de passe : Azerty1*<br>
+   Configuration en réseau interne<br>
+   IPv4 Fixe : 172.16.10.30<br>
+   Netmask : 255.255.255.0<br>
 
 Serveurs :  
 
-1) Serveur Windows Server 2022
-   Nom : SRVWIN01
-   Compte : Administrator
-   Mot de passe : Azerty1*
-   Adresse IP fixe : 172.16.10.5/24
+1) _Serveur Windows Server 2022_<br>
+   Nom : SRVWIN01<br>
+   Compte : Administrator<br>
+   Mot de passe : Azerty1*<br>
+   IPv4 Fixe : 172.16.10.5<br>
+   Netmask : 255.255.255.0<br>
 
-2) Serveur Debian 12
-   Nom: SRVLX01
-   Compte : root
-   Mot de passe : Azerty1*
+2) _Serveur Debian 12_<br>
+   Nom: SRVLX01<br>
+   Compte : root<br>
+   Mot de passe : Azerty1*<br>
+   IPv4 fixe : 172.16.10.10<br>
+   Netmask : 255.255.255.0<br>
 
 
