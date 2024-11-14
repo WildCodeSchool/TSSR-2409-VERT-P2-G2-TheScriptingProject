@@ -76,7 +76,7 @@
 
 #### Redémarrer
 
-***
+
 ***
 
 ## Debian 12
@@ -203,7 +203,7 @@
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Debian%2025.png" width="1000">
 </picture>
 
-***
+
 ***
 
 ## Windows 10
@@ -269,7 +269,7 @@
 
 #### Entrer le mot de passe et répondre aux propositions de Windows selon votre convenance
 
-***
+
 ***
 
 ## Windows Server 2022
@@ -316,6 +316,9 @@
 ***
 
 # Configuration des Machînes virtuelles
+
+***
+
 ## Configuration des cartes réseaux
 ##### Une fois les installations terminées, les quatre machines virtuelles sont configurées avec deux cartes réseaux, la première pour avoir accès à internet, la seconde pour communiquer sur un même réseau privé.
 
@@ -330,7 +333,13 @@
 </picture>
 
 
+***
+***
+
 ## Mise en place des adresses IP statiques et autorisation du port 22 (port SSH)
+
+***
+
 ### Client Ubuntu
 
 #### Cliquer l'icône réseau en haut à droite du bureau puis sur Ethernet (enp0s8)
@@ -353,6 +362,9 @@
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/IP%20Ubuntu%204.png" width="700">
 </picture>
 
+
+***
+
 ### Serveur Debian
 
 #### Modifier le fichier qui gère les connexions réseaux
@@ -367,6 +379,8 @@
 
 #### Le pare-feu de Debian 12 est ouvert par defaut, il n'est donc pas nécessaire de configurer le port 22 (port SSH).
 
+
+***
 
 ### Client Windows 10
 
@@ -439,11 +453,9 @@
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/SSH%20Windows%204.png" width="1000">
 </picture>
-#### 
-<picture>
-  <img src="" width="1000">
-</picture>
 
+
+***
 
 ### Client Windows server 2022
 
@@ -516,10 +528,6 @@
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/SSH%20Windows%204.png" width="1000">
 </picture>
-#### 
-<picture>
-  <img src="" width="1000">
-</picture>
 
 #### 
 <picture>
@@ -536,6 +544,10 @@
   <img src="" width="1000">
 </picture>
 
+#### 
+<picture>
+  <img src="" width="1000">
+</picture>
 
 #### 
 <picture>
