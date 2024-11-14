@@ -45,9 +45,9 @@ Présentation des fonctionnalités du script et de son utilisation sur les diff�
 | Freddy     | Scrum Master |       |   Freddy    | Technicien    |       |   Freddy      | Product Owner |       |    Freddy     | Technicien    |
 | Yohann     | Product Owner|       |   Yohann    | Technicien    |       |   Yohann      | Scrum Master  |       |    Yohann     | Technicien    |
 
-#### Configuration réseau    
+#### Choix Techniques (Système d'exploitation et Version)
 
-Clients :  
+**Clients :**  
 
 1) _Client sur OS Windows 10_<br>
    Nom : CLINWIN01<br>
@@ -65,7 +65,7 @@ Clients :
    IPv4 Fixe : 172.16.10.30<br>
    Netmask : 255.255.255.0<br>
 
-Serveurs :  
+**Serveurs :**  
 
 1) _Serveur Windows Server 2022_<br>
    Nom : SRVWIN01<br>
