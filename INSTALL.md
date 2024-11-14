@@ -255,16 +255,6 @@
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%2010.jpg" width="1000">
 </picture>
 
-#### 
-<picture>
-  <img src="" width="1000">
-</picture>
-
-#### 
-<picture>
-  <img src="" width="1000">
-</picture>
-
 #### Sélectionner l'unique disque dur
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Windows%2011.jpg" width="1000">
@@ -284,9 +274,41 @@
 
 ## Windows Server 2022
 
-#### 
+#### Choisir un nom d'utilisateur
 <picture>
-  <img src="" width="1000">
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Winsrv%201.png" width="1000">
+</picture>
+
+#### Monter l'image ISO de Windows Server 2022
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Winsrv%202.jpg" width="1000">
+</picture>
+
+#### Caractéristiques techniques allouées à la VM
+###### Vous pouvez choisir de modifier ces caractéristiques, mais nous ne pouvons garantir que cela fonctionnera
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Winsrv%203.png" width="500">
+</picture>
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Winsrv%204.png" width="500">
+</picture>
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Winsrv%205.png" width="500">
+</picture>
+
+#### Sélectionner la langue et la disposition des touches du clavier, puis cliquer sur Install Now
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Winsrv%206.jpg" width="1000">
+</picture>
+
+#### Sélectionner une version de Windows Server (ici Windows Server 2022 Standard Evaluation)
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Winsrv%207.jpg" width="1000">
+</picture>
+
+#### Sélectionner l'unique disque dur
+<picture>
+  <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Winsrv%208.jpg" width="1000">
 </picture>
 
 #### 
@@ -388,14 +410,3 @@
 <picture>
   <img src="" width="1000">
 </picture>
-
-#### 
-<picture>
-  <img src="" width="1000">
-</picture>
-
-#### 
-<picture>
-  <img src="" width="1000">
-</picture>
-
