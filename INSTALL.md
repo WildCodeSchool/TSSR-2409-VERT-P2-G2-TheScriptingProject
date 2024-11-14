@@ -2,16 +2,40 @@
 
 ## **SOMMAIRE**
 
-### :one: [Prérequis techniques](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#one-pr%C3%A9requis-techniques-1)
+* ###  :one:  [Prérequis techniques]()
+* ###  :two:  [Installation des Machines Virtuelles]()
+  * ####  2.1 [Ubuntu 22]()
+  * ####  2.2 [Debian 12]()
+  * ####  2.3 [Windows 10]()
+  * ####  2.4 [Windows Server 2022]()
+* ### :three: [Configuration des ISO]()
+  * #### 3.1 [Cartes Réseaux]()
+  * #### 3.2 [IP statiques]() 
+    * #### 3.2.1 [Ubuntu]()
+    * #### 3.2.2 [Debian 12]()
+    * #### 3.2.3 [Windows 10]()
+    * #### 3.2.4 [Windows Server 2022]()
+ * ##### 3.3 [Ping]()
+  * ##### 3.4 [SSH]()
+     * ##### 3.4.1 [Installation]()
+     * ##### 3.4.2 [Clefs SSH]()
 
-### :two: [Étapes d'installation et de conf. : instruction étape par étape](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#two--%C3%A9tapes-dinstallation-et-de-conf--instruction-%C3%A9tape-par-%C3%A9tape)
-    
-### :three: [Solutions aux problèmes connus et communs liés à l’installation et à la configuration](https://github.com/WildCodeSchool/TSSR-2409-P1-G3-Scanner-de-ports/blob/main/INSTALL.md#three--solutions-aux-probl%C3%A8mes-connus-et-communs-li%C3%A9s-%C3%A0-linstallation-et-%C3%A0-la-configuration) 
-    
----
+***
+***
+***
 
+* ### :one: [Prérequis techniques]()
+  * ##### ▶️ Diposer d'un ordinateur suffisament puissant pour acceuillir plusieurs VM.
+  * ##### ▶️ Disque (SSD mini, nvme recommandé) 200Go.
+  * ##### ▶️ Ram 16 Go minimun, 32 Go recomandé.
+  * ##### ▶️ Processeur capable de prendre en charge la virtualisation
 
-## Ubuntu 22
+***
+***
+
+* ###  :two:  [Installation des Machines Virtuelles]()
+
+  * ####  2.1 [Ubuntu 22]()
 #### Choisir un nom d'utilisateur : 
 <picture>
   <img src="https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/Screenshots/Install%20Ubuntu%201.jpg" width="1000">
@@ -79,7 +103,7 @@
 
 ***
 
-## Debian 12
+  * ####  2.2 [Debian 12]()
 
 #### Choisir un nom d'utilisateur
 <picture>
@@ -206,7 +230,7 @@
 
 ***
 
-## Windows 10
+  * ####  2.3 [Windows 10]()
 
 #### Choisir un nom d'utilisateur
 <picture>
@@ -272,7 +296,7 @@
 
 ***
 
-## Windows Server 2022
+  * ####  2.4 [Windows Server 2022]()
 
 #### Choisir un nom d'utilisateur
 <picture>
