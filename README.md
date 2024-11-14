@@ -3,9 +3,12 @@
 ## **SOMMAIRE**
 
 ### :one: [Présentation du Projet](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/README.md#one-pr%C3%A9sentation-du-projet-1)
-    
-
-    
+### :two: [Objectifs du Projet](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/README.md#two-objectifs-du-projet)
+### :three: [Présentation de l'équipe](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/README.md#three-pr%C3%A9sentation-de-l%C3%A9quipe)
+### :four: [Choix Techniques](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/README.md#four-choix-techniques-syst%C3%A8me-dexploitation-et-version)
+### :five: [Difficultés rencontrées](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/README.md#five-difficult%C3%A9s-rencontr%C3%A9es--probl%C3%A8mes-techniques-rencontr%C3%A9s)
+### :six: [Solutions Touvées](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/README.md#six-solutions-trouv%C3%A9es--solutions-et-alternatives-trouv%C3%A9es)
+### :seven: [Améliorations Possibles](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/README.md#seven-am%C3%A9liorations-possibles--suggestions-dam%C3%A9liorations-futures)
 
 ---
 
