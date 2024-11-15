@@ -572,7 +572,7 @@ Tableau récapitulatif de ce test de ping
 ***
 ***
 
-  * #### 3.4 [SSH](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#34-ssh-1)
+  * #### 3.4 [SSH](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#34-ssh--)
 
 #### 
 <picture>
