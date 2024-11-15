@@ -15,7 +15,7 @@
     * ##### 3.2.2 [Debian 12](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#322-debian-12-1)
     * ##### 3.2.3 [Windows 10](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#323-windows-10-1)
     * ##### 3.2.4 [Windows Server 2022](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#324-windows-server-2022-1)
-  * #### 3.3 [Ping]()
+  * #### 3.3 [Ping](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#33-ping-1)
   * #### 3.4 [SSH]()
     * ###### 3.4.1 [Installation]()
     * ##### 3.4.2 [Clefs SSH]()
@@ -557,7 +557,17 @@
 ***
 ***
 
-  * #### 3.3 [Ping]()
+  * #### 3.3 [Ping](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#33-ping)
+
+Suite à la configuration des adresse IP fixes, on peut lancer un test de ping entre les machines avec la commande `ping adresse_IP_fixe_de_la_machine_de_destination`
+Tableau récapitulatif de ce test de ping
+
+||Ubuntu|Win10|Win22|Debian|
+|:-:|:-:|:-:|:-:|:-:|
+|Ubuntu|X|OK|OK|OK|
+|Win10|OK|X|OK|OK|
+|Win22|OK|OK|X|OK|
+|Dbian|OK|OK|OK|X|
 
 
 #### 
