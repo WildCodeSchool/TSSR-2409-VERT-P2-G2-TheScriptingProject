@@ -16,9 +16,8 @@
     * ##### 3.2.3 [Windows 10](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#323-windows-10-1)
     * ##### 3.2.4 [Windows Server 2022](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#324-windows-server-2022-1)
   * #### 3.3 [Ping](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#33-ping-1)
-  * #### 3.4 [SSH]()
-    * ###### 3.4.1 [Installation]()
-    * ##### 3.4.2 [Clefs SSH]()
+  * #### 3.4 [SSH ❎ ](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#34-ssh-1)
+
 
 ***
 ***
@@ -573,7 +572,7 @@ Tableau récapitulatif de ce test de ping
 ***
 ***
 
-  * #### 3.4 [SSH]()
+  * #### 3.4 [SSH](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#34-ssh)
 
 #### 
 <picture>
