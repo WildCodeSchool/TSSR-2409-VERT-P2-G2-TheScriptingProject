@@ -25,9 +25,9 @@
 
 * ### :one: [Prérequis techniques](https://github.com/WildCodeSchool/TSSR-2409-VERT-P2-G2-TheScriptingProject/blob/main/INSTALL.md#one--pr%C3%A9requis-techniques)
   * ##### ▶️ Diposer d'un ordinateur suffisament puissant pour acceuillir plusieurs VM.
-  * ##### ▶️ Disque (SSD mini, nvme recommandé) 200Go.
-  * ##### ▶️ Ram 16 Go minimun, 32 Go recomandé.
-  * ##### ▶️ Processeur capable de prendre en charge la virtualisation
+  * ##### ▶️ Disque dur performant, de préférence un SSD, avec au moins 200Go d'espace diponible.
+  * ##### ▶️ Disposer de 16 Go de RAM au minimun, 32 Go recommandés.
+  * ##### ▶️ Processeur capable de prendre en charge la virtualisation.
 
 ***
 ***
